@@ -13,7 +13,7 @@
 * Configure email for root user
   * me@lan.z1.network
 * Generate Cloudflare API token
-  * [cloudflare.com](cloudflare.com)
+  * [cloudflare.com](https://cloudflare.com)
   * Profile -> API Tokens -> Create Token -> Edit zone DNS
     * READ Zone.Zone
 * Configure ACME DNS-Authenticators
@@ -32,3 +32,7 @@
   * Identifier: letsencrypt
 * Configure GUI SSL Certificate : letsencrypt
 * Web Interface HTTP -> HTTPS Redirect
+
+# Related videos:
+
+* [TrueNAS Scale playlist](https://www.youtube.com/playlist?list=PLVncjTDMNQ4RKprjwzLtGYUwVLZe6INiH)
