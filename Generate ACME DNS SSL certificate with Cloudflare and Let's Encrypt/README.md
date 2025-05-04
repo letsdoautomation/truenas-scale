@@ -21,7 +21,7 @@
   * Authenticator: cloudflare
   * API token: ?
 * Configure Certificate Signing Requests
-  * Name: etsencrypt-csr
+  * Name: letsencrypt-csr
   * Country: Lithuania
   * State: home
   * Locality: lab
