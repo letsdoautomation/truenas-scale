@@ -4,10 +4,14 @@
 
 Each disk stores data. A stripe requires at least one disk and has no data redundancy.
 
-<b>Notes:</b>
+<b>Requirements</b>
 
-* Has no redundancy
-* Offers most storage capacity
+* Atleast 1 disk
+
+<b>Provides:</b>
+
+* No redundancy
+* Most storage capacity
 
 <b>Sample 1:</b>
 
