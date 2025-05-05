@@ -29,7 +29,7 @@ Each disk stores data. A stripe requires at least one disk and has no data redun
 
 <b>Sample 2:</b>
 
-<img src="img/stripe_3_vdev.png" width=25% height=25%>
+<img src="img/stripe_3_vdev.png" width=40% height=40%>
 
 <b>Configuration:</b>
 
