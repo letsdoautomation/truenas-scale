@@ -17,6 +17,8 @@ Each disk stores data. A stripe requires at least one disk and has no data redun
 
 * Width: 4
 * Number of VDEVs: 1
+* Capacity: 32 GB
+* Redundancy: 0 drives
 
 <b>Sample 2:</b>
 
@@ -26,6 +28,8 @@ Each disk stores data. A stripe requires at least one disk and has no data redun
 
 * Width: 2
 * Number of VDEVs: 2
+* Capacity: 32 GB
+* Redundancy: 0 drives
 
 <b>Sample 2:</b>
 
@@ -35,3 +39,5 @@ Each disk stores data. A stripe requires at least one disk and has no data redun
 
 * Width: 1
 * Number of VDEVs: 4
+* Capacity: 32 GB
+* Redundancy: 0 drives
