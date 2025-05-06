@@ -1,4 +1,4 @@
-# TrueNAS Scale: Configure stripe disk layout vdev
+# TrueNAS Scale: Configure stripe layout vdev disk pool
 
 <b>Description:</b>
 

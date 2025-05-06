@@ -1,4 +1,4 @@
-# TrueNAS Scale: Configure RAIDZ1 disk layout vdev
+# TrueNAS Scale: Configure RAIDZ1 layout vdev disk pool
 
 <b>Description:</b>
 

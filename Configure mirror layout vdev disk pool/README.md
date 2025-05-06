@@ -1,4 +1,4 @@
-# TrueNAS Scale: Configure mirror disk layout vdev
+# TrueNAS Scale: Configure mirror layout vdev disk pool
 
 <b>Description:</b>
 
