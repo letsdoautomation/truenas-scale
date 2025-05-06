@@ -10,8 +10,8 @@ Uses one disk for parity while all other disks store data. RAIDZ1 requires at le
 
 <b>Provides:</b>
 
-* Least redundancy per vdev compared to other RAIDZ layout
-* Most capacity per vdev compared to other RAIDZ layout
+* Least redundancy per vdev compared to other RAIDZ layouts
+* Most capacity per vdev compared to other RAIDZ layouts
 
 <b>Example 1:</b>
 
