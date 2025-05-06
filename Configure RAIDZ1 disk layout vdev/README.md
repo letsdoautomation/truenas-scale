@@ -41,7 +41,7 @@ Uses one disk for parity while all other disks store data. RAIDZ1 requires at le
 
 <b>Example 3:</b>
 
-<img src="img/raidz1_2vdev_3wide" width=30% height=30%>
+<img src="img/raidz1_2vdev_3wide.png" width=30% height=30%>
 
 <b>Configuration:</b>
 
