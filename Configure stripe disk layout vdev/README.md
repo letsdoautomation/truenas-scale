@@ -15,33 +15,43 @@ Each disk stores data. A stripe requires at least one disk and has no data redun
 
 <b>Example 1:</b>
 
-<img src="img/stripe_single_vdev.png" width=25% height=25%>
+<img src="img/stripe_1vdev_4disk.png" width=25% height=25%>
 
 <b>Configuration:</b>
 
 * Width: 4
 * Number of VDEVs: 1
+* Total drives: 4
+* Drive capacity: 8 GB
 * Capacity: 32 GB
 * Redundancy: 0 drives
 
 <b>Example 2:</b>
 
-<img src="img/stripe_2_vdev.png" width=25% height=25%>
+<img src="img/stripe_2vdev_2disk.png" width=25% height=25%>
 
 <b>Configuration:</b>
 
 * Width: 2
 * Number of VDEVs: 2
+* Total drives: 4
+* Drive capacity: 8 GB
 * Capacity: 32 GB
 * Redundancy: 0 drives
 
 <b>Example 3:</b>
 
-<img src="img/stripe_3_vdev.png" width=40% height=40%>
+<img src="img/stripe_4vdev_4disk.png" width=40% height=40%>
 
 <b>Configuration:</b>
 
 * Width: 1
 * Number of VDEVs: 4
+* Total drives: 4
+* Drive capacity: 8 GB
 * Capacity: 32 GB
 * Redundancy: 0 drives
+
+# Related videos:
+
+* [TrueNAS Scale playlist](https://www.youtube.com/playlist?list=PLVncjTDMNQ4RKprjwzLtGYUwVLZe6INiH)

@@ -77,3 +77,7 @@ Data is identical in each disk. A mirror requires at least two disks, provides t
 * Drive capacity: 8 GB
 * Total capacity: 24 GB
 * Redundancy: 6 drives 2 in each vdev
+
+# Related videos:
+
+* [TrueNAS Scale playlist](https://www.youtube.com/playlist?list=PLVncjTDMNQ4RKprjwzLtGYUwVLZe6INiH)
