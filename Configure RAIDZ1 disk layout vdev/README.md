@@ -52,7 +52,7 @@ Uses one disk for parity while all other disks store data. RAIDZ1 requires at le
 * Total capacity: 32 GB
 * Redundancy: 2 drives total, 1 drive per vdev
 
-<b>Example 3:</b>
+<b>Example 4:</b>
 
 <img src="img/raidz1_3vdev_3wide.png" width=30% height=30%>
 
@@ -64,3 +64,20 @@ Uses one disk for parity while all other disks store data. RAIDZ1 requires at le
 * Drive capacity: 8 GB
 * Total capacity: 48 GB
 * Redundancy: 3 drives total, 1 drive per vdev
+
+<b>Example 5:</b>
+
+<img src="img/raidz1_3vdev_4wide.png" width=30% height=30%>
+
+<b>Configuration:</b>
+
+* Width: 4
+* Number of VDEVs: 3
+* Total drives: 12
+* Drive capacity: 8 GB
+* Total capacity: 72 GB
+* Redundancy: 3 drives total, 1 drive per vdev
+
+# Related videos:
+
+* [TrueNAS Scale playlist](https://www.youtube.com/playlist?list=PLVncjTDMNQ4RKprjwzLtGYUwVLZe6INiH)
