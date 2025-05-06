@@ -50,4 +50,17 @@ Uses one disk for parity while all other disks store data. RAIDZ1 requires at le
 * Total drives: 6
 * Drive capacity: 8 GB
 * Total capacity: 32 GB
-* Redundancy: 1 drive per vdev
+* Redundancy: 2 drives total, 1 drive per vdev
+
+<b>Example 3:</b>
+
+<img src="img/raidz1_3vdev_3wide.png" width=30% height=30%>
+
+<b>Configuration:</b>
+
+* Width: 3
+* Number of VDEVs: 3
+* Total drives: 9
+* Drive capacity: 8 GB
+* Total capacity: 48 GB
+* Redundancy: 3 drives total, 1 drive per vdev
