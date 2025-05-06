@@ -34,7 +34,7 @@ Data is identical in each disk. A mirror requires at least two disks, provides t
 
 * Width: 3
 * Number of VDEVs: 1
-* Total drives: 2
+* Total drives: 3
 * Drive capacity: 8 GB
 * Total capacity: 8 GB
 * Redundancy: 2 drives
@@ -51,3 +51,29 @@ Data is identical in each disk. A mirror requires at least two disks, provides t
 * Drive capacity: 8 GB
 * Total capacity: 16 GB
 * Redundancy: 2 drives 1 in each vdev
+
+<b>Example 4:</b>
+
+<img src="img/mirror_3vdev_2wide.png" width=30% height=30%>
+
+<b>Configuration:</b>
+
+* Width: 2
+* Number of VDEVs: 3
+* Total drives: 6
+* Drive capacity: 8 GB
+* Total capacity: 24 GB
+* Redundancy: 3 drives 1 in each vdev
+
+<b>Example 5:</b>
+
+<img src="img/mirror_3vdev_3wide.png" width=30% height=30%>
+
+<b>Configuration:</b>
+
+* Width: 3
+* Number of VDEVs: 3
+* Total drives: 9
+* Drive capacity: 8 GB
+* Total capacity: 24 GB
+* Redundancy: 6 drives 2 in each vdev
