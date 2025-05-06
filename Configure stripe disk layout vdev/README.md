@@ -15,7 +15,7 @@ Each disk stores data. A stripe requires at least one disk and has no data redun
 
 <b>Example 1:</b>
 
-<img src="img/stripe_1vdev_4disk.png" width=25% height=25%>
+<img src="img/stripe_1vdev_4disk.png" width=35% height=35%>
 
 <b>Configuration:</b>
 
@@ -41,7 +41,7 @@ Each disk stores data. A stripe requires at least one disk and has no data redun
 
 <b>Example 3:</b>
 
-<img src="img/stripe_4vdev_4disk.png" width=40% height=40%>
+<img src="img/stripe_4vdev_4disk.png" width=25% height=25%>
 
 <b>Configuration:</b>
 
