@@ -50,7 +50,7 @@ Uses two disks for parity while all other disks store data. RAIDZ2 requires at l
 * Total drives: 8
 * Drive capacity: 8 GB
 * Total capacity: 32 GB
-* Redundancy: 4 drives in 2 each vdev
+* Redundancy: 4 drives, 2 drives per vdev
 
 <b>Example 4:</b>
 
@@ -63,7 +63,7 @@ Uses two disks for parity while all other disks store data. RAIDZ2 requires at l
 * Total drives: 18
 * Drive capacity: 8 GB
 * Total capacity: 96 GB
-* Redundancy: 6 drives in 3 each vdev
+* Redundancy: 6 drives, 2 drives per vdev
 
 # Related videos:
 
