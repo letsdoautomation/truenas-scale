@@ -13,7 +13,7 @@
 * Accessing share with non-domain user
 
 
-</b>My TrueNAS Scale setup:</b>
+<b>My TrueNAS Scale setup:</b>
 
 * [Configure IP Address, DNS, Gateway, Hostname, Domain, Timezone](https://youtu.be/ForJb_3_MYg)
 * [TrueNAS Scale playlist](https://www.youtube.com/playlist?list=PLVncjTDMNQ4RKprjwzLtGYUwVLZe6INiH)
