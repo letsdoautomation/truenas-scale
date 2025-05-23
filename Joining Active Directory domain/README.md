@@ -8,7 +8,7 @@
 <b>Objectives:</b>
 
 * Join TrueNAS Scale to domain
-* Create share for domain users
+* Create network share
 * Accessing share with domain user
 * Accessing share with non-domain user
 
